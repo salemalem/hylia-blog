@@ -1,0 +1,10 @@
+---
+label: blog post
+hide_body: true
+fields:
+- name: hi
+  type: text
+  config:
+    required: false
+  label: Hi
+  description: hi
